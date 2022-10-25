@@ -2,7 +2,7 @@ package com.example.absensi_apps.;
 
 public class Api {
 
-    private static final String ROOT_URL = "http://192.168.178.2/AbsensiOnline/v1/Api.php?apicall=";
+    private static final String ROOT_URL = "";
 
     public static final String URL_CREATE_ABSEN = ROOT_URL + "createabsen";
     public static final String URL_READ_ABSEN = ROOT_URL + "getabsen";
