@@ -16,7 +16,7 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
 
     public static final String USER_NAME = "USER_NAME";
 
-    private static final String LOGIN_URL = "http://192.168.178.2/AbsensiOnline/login/login.php";
+    private static final String LOGIN_URL = "";
 
     private EditText editTextUserName;
     private EditText editTextPassword;
